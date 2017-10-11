@@ -9,8 +9,14 @@ var iconMarker = L.AwesomeMarkers.icon({
   markerColor: 'purple'
 });
 
+
 function initMap(idMap){
   var mapboxTiles = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/dark-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiaW1sZW8iLCJhIjoiT0tfdlBSVSJ9.Qqzb4uGRSDRSGqZlV6koGg",{
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, Tiles thanks to © <a href="http://mapbox.com">Mapbox</a>'
+  });
+  
+  // mapbox satellite streets
+  var mapboxSatelliteTiles = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiaW1sZW8iLCJhIjoiT0tfdlBSVSJ9.Qqzb4uGRSDRSGqZlV6koGg",{
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, Tiles thanks to © <a href="http://mapbox.com">Mapbox</a>'
   });
 
@@ -21,7 +27,7 @@ function initMap(idMap){
     layers: [mapboxTiles]
   });
 
-  layerControl = L.control.layers({"Mapbox": mapboxTiles}, {}, {collapsed:false}).addTo(map);
+  layerControl = L.control.layers({"Mapbox": mapboxTiles, "Mapbox Satellite": mapboxSatelliteTiles}, {}, {collapsed:false}).addTo(map);
 
   L.control.locate({
     strings: {
@@ -33,7 +39,7 @@ function initMap(idMap){
 }
 
 
-function addLayerFromDirectory(directoryName, center){
+function addLayerFromDirectory(directoryName, centerData){
   var url = "resources/data/" + directoryName + "/";
 
   var auxLayer;
@@ -53,7 +59,7 @@ function addLayerFromDirectory(directoryName, center){
 
    layerControl.addOverlay(auxLayer, directoryName);
 
-   if(center)
+   if(centerData)
     map.fitBounds(dataLayer.getBounds());
   });
 }
@@ -65,3 +71,5 @@ $(function(){
   addLayerFromDirectory("Monterrey", false);
   addLayerFromDirectory("Puebla", true);
 });
+
+/*global $ L*/
