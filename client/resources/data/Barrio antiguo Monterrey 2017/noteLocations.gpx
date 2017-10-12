@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="25.6691265" lon="-100.3044677">
+    <time>2017-05-21T16:31:31Z</time>
+    <name>TpDIoVlC--.1.3gp</name>
+    <link href="TpDIoVlC--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="25.6691694" lon="-100.3044033">
+    <time>2017-05-21T16:34:07Z</time>
+    <name>TpDIoVlw--.1.3gp</name>
+    <link href="TpDIoVlw--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="25.6692231" lon="-100.3032231">
+    <time>2017-05-21T16:38:08Z</time>
+    <name>TpDIoXaL--.1.3gp</name>
+    <link href="TpDIoXaL--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="25.6692982" lon="-100.3032017">
+    <time>2017-05-21T16:38:16Z</time>
+    <name>TpDIoXbg--.1.3gp</name>
+    <link href="TpDIoXbg--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+</gpx>

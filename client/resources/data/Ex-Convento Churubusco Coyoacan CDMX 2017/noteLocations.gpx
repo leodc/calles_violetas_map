@@ -1,0 +1,845 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="19.3536294" lon="-99.1456461">
+    <time>2017-03-25T16:42:34Z</time>
+    <name>S8dqvhcp--.1.3gp</name>
+    <link href="S8dqvhcp--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3536294" lon="-99.1456246">
+    <time>2017-03-25T16:47:11Z</time>
+    <name>S8dqvhcr--.1.3gp</name>
+    <link href="S8dqvhcr--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3537259" lon="-99.146204">
+    <time>2017-03-25T16:51:47Z</time>
+    <name>S8dqvL~k--.1.3gp</name>
+    <link href="S8dqvL~k--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3537259" lon="-99.1462684">
+    <time>2017-03-25T16:52:47Z</time>
+    <name>S8dqvL~G--.1.3gp</name>
+    <link href="S8dqvL~G--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3537259" lon="-99.1462684">
+    <time>2017-03-25T16:56:57Z</time>
+    <name>S8dqvL~G--.2.3gp</name>
+    <link href="S8dqvL~G--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3537366" lon="-99.1462898">
+    <time>2017-03-25T17:00:00Z</time>
+    <name>S8dqvL~F--.1.3gp</name>
+    <link href="S8dqvL~F--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3539834" lon="-99.1463542">
+    <time>2017-03-25T17:02:03Z</time>
+    <name>S8dqvOsm--.1.3gp</name>
+    <link href="S8dqvOsm--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3538547" lon="-99.1471481">
+    <time>2017-03-25T17:07:36Z</time>
+    <name>S8dqvOIU--.1.3gp</name>
+    <link href="S8dqvOIU--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.354037" lon="-99.1471481">
+    <time>2017-03-25T17:07:48Z</time>
+    <name>S8dqvOMV--.1.3gp</name>
+    <link href="S8dqvOMV--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3542087" lon="-99.1474915">
+    <time>2017-03-25T17:11:02Z</time>
+    <name>S8dqvOQV--.1.3gp</name>
+    <link href="S8dqvOQV--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3537796" lon="-99.1476846">
+    <time>2017-03-25T17:12:55Z</time>
+    <name>S8dqvJ9~--.1.3gp</name>
+    <link href="S8dqvJ9~--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3537796" lon="-99.1476846">
+    <time>2017-03-25T17:19:29Z</time>
+    <name>S8dqvJ9~--.2.3gp</name>
+    <link href="S8dqvJ9~--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3542945" lon="-99.1479206">
+    <time>2017-03-25T17:21:05Z</time>
+    <name>S8dqvMz1--.1.3gp</name>
+    <link href="S8dqvMz1--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3543053" lon="-99.1479206">
+    <time>2017-03-25T17:22:40Z</time>
+    <name>S8dqvM2g--.1.3gp</name>
+    <link href="S8dqvM2g--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3545628" lon="-99.149251">
+    <time>2017-03-25T17:25:37Z</time>
+    <name>S8dqvHjo--.1.3gp</name>
+    <link href="S8dqvHjo--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3549597" lon="-99.1494012">
+    <time>2017-03-25T17:29:19Z</time>
+    <name>S8dqvHx7--.1.3gp</name>
+    <link href="S8dqvHx7--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3549061" lon="-99.1494656">
+    <time>2017-03-25T17:30:03Z</time>
+    <name>S8dqvHxg--.1.3gp</name>
+    <link href="S8dqvHxg--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3549061" lon="-99.1494656">
+    <time>2017-03-25T17:30:18Z</time>
+    <name>S8dqvHxg--.2.3gp</name>
+    <link href="S8dqvHxg--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3549061" lon="-99.1494656">
+    <time>2017-03-25T17:31:44Z</time>
+    <name>S8dqvHxg--.3.3gp</name>
+    <link href="S8dqvHxg--.3.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3552494" lon="-99.1497016">
+    <time>2017-03-25T17:32:58Z</time>
+    <name>S8dqvSLC--.1.3gp</name>
+    <link href="S8dqvSLC--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3552601" lon="-99.1497016">
+    <time>2017-03-25T17:35:13Z</time>
+    <name>S8dqvSLD--.1.3gp</name>
+    <link href="S8dqvSLD--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3553674" lon="-99.150517">
+    <time>2017-03-25T17:39:03Z</time>
+    <name>S8dqvQsP--.1.3gp</name>
+    <link href="S8dqvQsP--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3555713" lon="-99.151268">
+    <time>2017-03-25T17:45:26Z</time>
+    <name>S8dqvQYU--.1.3gp</name>
+    <link href="S8dqvQYU--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3555927" lon="-99.1512895">
+    <time>2017-03-25T17:46:54Z</time>
+    <name>S8dqvQTq--.1.3gp</name>
+    <link href="S8dqvQTq--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3558609" lon="-99.1513538">
+    <time>2017-03-25T17:47:15Z</time>
+    <name>S8dqvRCh--.1.3gp</name>
+    <link href="S8dqvRCh--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3559039" lon="-99.1513538">
+    <time>2017-03-25T17:47:23Z</time>
+    <name>S8dqvRCx--.1.3gp</name>
+    <link href="S8dqvRCx--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3562901" lon="-99.1515684">
+    <time>2017-03-25T17:49:30Z</time>
+    <name>S8dqvRRJ--.1.3gp</name>
+    <link href="S8dqvRRJ--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3563008" lon="-99.1515684">
+    <time>2017-03-25T17:52:31Z</time>
+    <name>S8dqvRRM--.1.3gp</name>
+    <link href="S8dqvRRM--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.355346" lon="-99.1519117">
+    <time>2017-03-25T17:59:22Z</time>
+    <name>S8dqt6sJ--.1.3gp</name>
+    <link href="S8dqt6sJ--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3552279" lon="-99.1520619">
+    <time>2017-03-25T18:00:05Z</time>
+    <name>S8dqt6ie--.1.3gp</name>
+    <link href="S8dqt6ie--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3551421" lon="-99.1521478">
+    <time>2017-03-25T18:02:15Z</time>
+    <name>S8dqtv1_--.1.3gp</name>
+    <link href="S8dqtv1_--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3549812" lon="-99.1523409">
+    <time>2017-03-25T18:03:12Z</time>
+    <name>S8dqtvb9--.1.3gp</name>
+    <link href="S8dqtvb9--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3549597" lon="-99.1527057">
+    <time>2017-03-25T18:04:40Z</time>
+    <name>S8dqtvTz--.1.3gp</name>
+    <link href="S8dqtvTz--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0612149" lon="-98.2321072">
+    <time>2017-04-01T16:58:30Z</time>
+    <name>S80JZ31k--.1.3gp</name>
+    <link href="S80JZ31k--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0612257" lon="-98.2321072">
+    <time>2017-04-01T16:59:43Z</time>
+    <name>S80JZ31l--.1.3gp</name>
+    <link href="S80JZ31l--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0613115" lon="-98.2320213">
+    <time>2017-04-01T17:01:51Z</time>
+    <name>S80JciiF--.1.3gp</name>
+    <link href="S80JciiF--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0614188" lon="-98.231957">
+    <time>2017-04-01T17:02:28Z</time>
+    <name>S80Jcijb--.1.3gp</name>
+    <link href="S80Jcijb--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.061805" lon="-98.2316995">
+    <time>2017-04-01T17:07:23Z</time>
+    <name>S80Jci8r--.1.3gp</name>
+    <link href="S80Jci8r--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0620625" lon="-98.2315493">
+    <time>2017-04-01T17:11:35Z</time>
+    <name>S80Jcjrp--.1.3gp</name>
+    <link href="S80Jcjrp--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0624487" lon="-98.2313347">
+    <time>2017-04-01T17:13:48Z</time>
+    <name>S80JcpTR--.1.3gp</name>
+    <link href="S80JcpTR--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0624487" lon="-98.2313347">
+    <time>2017-04-01T17:14:51Z</time>
+    <name>S80JcpTR--.2.3gp</name>
+    <link href="S80JcpTR--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0624487" lon="-98.2313347">
+    <time>2017-04-01T17:16:07Z</time>
+    <name>S80JcpTR--.3.3gp</name>
+    <link href="S80JcpTR--.3.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0625238" lon="-98.2313132">
+    <time>2017-04-01T17:19:07Z</time>
+    <name>S80JcpWS--.1.3gp</name>
+    <link href="S80JcpWS--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0625238" lon="-98.2313132">
+    <time>2017-04-01T17:19:17Z</time>
+    <name>S80JcpWS--.2.3gp</name>
+    <link href="S80JcpWS--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.062556" lon="-98.2313132">
+    <time>2017-04-01T17:21:44Z</time>
+    <name>S80JcpWX--.1.3gp</name>
+    <link href="S80JcpWX--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0625668" lon="-98.2313132">
+    <time>2017-04-01T17:22:01Z</time>
+    <name>S80JcpXC--.1.3gp</name>
+    <link href="S80JcpXC--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0625775" lon="-98.2313132">
+    <time>2017-04-01T17:22:47Z</time>
+    <name>S80JcpXD--.1.3gp</name>
+    <link href="S80JcpXD--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0628672" lon="-98.2312059">
+    <time>2017-04-01T17:25:57Z</time>
+    <name>S80JcsG4--.1.3gp</name>
+    <link href="S80JcsG4--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0628779" lon="-98.2312059">
+    <time>2017-04-01T17:26:29Z</time>
+    <name>S80JcsG5--.1.3gp</name>
+    <link href="S80JcsG5--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0628779" lon="-98.2312489">
+    <time>2017-04-01T17:29:27Z</time>
+    <name>S80JcsGx--.1.3gp</name>
+    <link href="S80JcsGx--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0628779" lon="-98.2312489">
+    <time>2017-04-01T17:30:06Z</time>
+    <name>S80JcsGx--.2.3gp</name>
+    <link href="S80JcsGx--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0628994" lon="-98.2312703">
+    <time>2017-04-01T17:30:27Z</time>
+    <name>S80JcsGf--.1.3gp</name>
+    <link href="S80JcsGf--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0630817" lon="-98.2311416">
+    <time>2017-04-01T17:32:30Z</time>
+    <name>S80JcsZC--.1.3gp</name>
+    <link href="S80JcsZC--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0632641" lon="-98.2310343">
+    <time>2017-04-01T17:33:59Z</time>
+    <name>S80Jcsdp--.1.3gp</name>
+    <link href="S80Jcsdp--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0637469" lon="-98.2308412">
+    <time>2017-04-01T17:37:17Z</time>
+    <name>S80Jcta_--.1.3gp</name>
+    <link href="S80Jcta_--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0637362" lon="-98.2308197">
+    <time>2017-04-01T17:40:12Z</time>
+    <name>S80JctwR--.1.3gp</name>
+    <link href="S80JctwR--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0637362" lon="-98.2308197">
+    <time>2017-04-01T17:42:02Z</time>
+    <name>S80JctwR--.2.3gp</name>
+    <link href="S80JctwR--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.063822" lon="-98.2307124">
+    <time>2017-04-01T17:43:17Z</time>
+    <name>S80Jctxz--.1.3gp</name>
+    <link href="S80Jctxz--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0639186" lon="-98.230648">
+    <time>2017-04-01T17:44:51Z</time>
+    <name>S80Jct2U--.1.3gp</name>
+    <link href="S80Jct2U--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0640259" lon="-98.2305622">
+    <time>2017-04-01T17:46:50Z</time>
+    <name>S80Jc4ig--.1.3gp</name>
+    <link href="S80Jc4ig--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0642297" lon="-98.2304764">
+    <time>2017-04-01T17:50:56Z</time>
+    <name>S80Jc4sF--.1.3gp</name>
+    <link href="S80Jc4sF--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0646052" lon="-98.2302618">
+    <time>2017-04-01T17:58:27Z</time>
+    <name>S80Jc4_c--.1.3gp</name>
+    <link href="S80Jc4_c--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.064573" lon="-98.2300901">
+    <time>2017-04-01T17:59:56Z</time>
+    <name>S80Jc6UN--.1.3gp</name>
+    <link href="S80Jc6UN--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0644658" lon="-98.2299614">
+    <time>2017-04-01T18:03:07Z</time>
+    <name>S80Jc6TB--.1.3gp</name>
+    <link href="S80Jc6TB--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0635753" lon="-98.2294893">
+    <time>2017-04-01T18:05:28Z</time>
+    <name>S80JcvO8--.1.3gp</name>
+    <link href="S80JcvO8--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0629959" lon="-98.2298112">
+    <time>2017-04-01T18:10:43Z</time>
+    <name>S80JcuSq--.1.3gp</name>
+    <link href="S80JcuSq--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0622985" lon="-98.230176">
+    <time>2017-04-01T18:11:28Z</time>
+    <name>S80Jcpv9--.1.3gp</name>
+    <link href="S80Jcpv9--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0623093" lon="-98.2302403">
+    <time>2017-04-01T18:12:08Z</time>
+    <name>S80Jcp6K--.1.3gp</name>
+    <link href="S80Jcp6K--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.062953" lon="-98.2311201">
+    <time>2017-04-01T18:16:33Z</time>
+    <name>S80JcsNY--.1.3gp</name>
+    <link href="S80JcsNY--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.062953" lon="-98.2311201">
+    <time>2017-04-01T18:17:07Z</time>
+    <name>S80JcsNY--.2.3gp</name>
+    <link href="S80JcsNY--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+
+  <wpt lat="19.3536294" lon="-99.1456461">
+    <time>2017-03-25T16:42:34Z</time>
+    <name>S8dqvhcp--.1.3gp</name>
+    <link href="S8dqvhcp--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3536294" lon="-99.1456246">
+    <time>2017-03-25T16:47:11Z</time>
+    <name>S8dqvhcr--.1.3gp</name>
+    <link href="S8dqvhcr--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3537259" lon="-99.146204">
+    <time>2017-03-25T16:51:47Z</time>
+    <name>S8dqvL~k--.1.3gp</name>
+    <link href="S8dqvL~k--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3537259" lon="-99.1462684">
+    <time>2017-03-25T16:52:47Z</time>
+    <name>S8dqvL~G--.1.3gp</name>
+    <link href="S8dqvL~G--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3537259" lon="-99.1462684">
+    <time>2017-03-25T16:56:57Z</time>
+    <name>S8dqvL~G--.2.3gp</name>
+    <link href="S8dqvL~G--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3537366" lon="-99.1462898">
+    <time>2017-03-25T17:00:00Z</time>
+    <name>S8dqvL~F--.1.3gp</name>
+    <link href="S8dqvL~F--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3539834" lon="-99.1463542">
+    <time>2017-03-25T17:02:03Z</time>
+    <name>S8dqvOsm--.1.3gp</name>
+    <link href="S8dqvOsm--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3538547" lon="-99.1471481">
+    <time>2017-03-25T17:07:36Z</time>
+    <name>S8dqvOIU--.1.3gp</name>
+    <link href="S8dqvOIU--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.354037" lon="-99.1471481">
+    <time>2017-03-25T17:07:48Z</time>
+    <name>S8dqvOMV--.1.3gp</name>
+    <link href="S8dqvOMV--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3542087" lon="-99.1474915">
+    <time>2017-03-25T17:11:02Z</time>
+    <name>S8dqvOQV--.1.3gp</name>
+    <link href="S8dqvOQV--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3537796" lon="-99.1476846">
+    <time>2017-03-25T17:12:55Z</time>
+    <name>S8dqvJ9~--.1.3gp</name>
+    <link href="S8dqvJ9~--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3537796" lon="-99.1476846">
+    <time>2017-03-25T17:19:29Z</time>
+    <name>S8dqvJ9~--.2.3gp</name>
+    <link href="S8dqvJ9~--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3542945" lon="-99.1479206">
+    <time>2017-03-25T17:21:05Z</time>
+    <name>S8dqvMz1--.1.3gp</name>
+    <link href="S8dqvMz1--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3543053" lon="-99.1479206">
+    <time>2017-03-25T17:22:40Z</time>
+    <name>S8dqvM2g--.1.3gp</name>
+    <link href="S8dqvM2g--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3545628" lon="-99.149251">
+    <time>2017-03-25T17:25:37Z</time>
+    <name>S8dqvHjo--.1.3gp</name>
+    <link href="S8dqvHjo--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3549597" lon="-99.1494012">
+    <time>2017-03-25T17:29:19Z</time>
+    <name>S8dqvHx7--.1.3gp</name>
+    <link href="S8dqvHx7--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3549061" lon="-99.1494656">
+    <time>2017-03-25T17:30:03Z</time>
+    <name>S8dqvHxg--.1.3gp</name>
+    <link href="S8dqvHxg--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3549061" lon="-99.1494656">
+    <time>2017-03-25T17:30:18Z</time>
+    <name>S8dqvHxg--.2.3gp</name>
+    <link href="S8dqvHxg--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3549061" lon="-99.1494656">
+    <time>2017-03-25T17:31:44Z</time>
+    <name>S8dqvHxg--.3.3gp</name>
+    <link href="S8dqvHxg--.3.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3552494" lon="-99.1497016">
+    <time>2017-03-25T17:32:58Z</time>
+    <name>S8dqvSLC--.1.3gp</name>
+    <link href="S8dqvSLC--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3552601" lon="-99.1497016">
+    <time>2017-03-25T17:35:13Z</time>
+    <name>S8dqvSLD--.1.3gp</name>
+    <link href="S8dqvSLD--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3553674" lon="-99.150517">
+    <time>2017-03-25T17:39:03Z</time>
+    <name>S8dqvQsP--.1.3gp</name>
+    <link href="S8dqvQsP--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3555713" lon="-99.151268">
+    <time>2017-03-25T17:45:26Z</time>
+    <name>S8dqvQYU--.1.3gp</name>
+    <link href="S8dqvQYU--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3555927" lon="-99.1512895">
+    <time>2017-03-25T17:46:54Z</time>
+    <name>S8dqvQTq--.1.3gp</name>
+    <link href="S8dqvQTq--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3558609" lon="-99.1513538">
+    <time>2017-03-25T17:47:15Z</time>
+    <name>S8dqvRCh--.1.3gp</name>
+    <link href="S8dqvRCh--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3559039" lon="-99.1513538">
+    <time>2017-03-25T17:47:23Z</time>
+    <name>S8dqvRCx--.1.3gp</name>
+    <link href="S8dqvRCx--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3562901" lon="-99.1515684">
+    <time>2017-03-25T17:49:30Z</time>
+    <name>S8dqvRRJ--.1.3gp</name>
+    <link href="S8dqvRRJ--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3563008" lon="-99.1515684">
+    <time>2017-03-25T17:52:31Z</time>
+    <name>S8dqvRRM--.1.3gp</name>
+    <link href="S8dqvRRM--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.355346" lon="-99.1519117">
+    <time>2017-03-25T17:59:22Z</time>
+    <name>S8dqt6sJ--.1.3gp</name>
+    <link href="S8dqt6sJ--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3552279" lon="-99.1520619">
+    <time>2017-03-25T18:00:05Z</time>
+    <name>S8dqt6ie--.1.3gp</name>
+    <link href="S8dqt6ie--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3551421" lon="-99.1521478">
+    <time>2017-03-25T18:02:15Z</time>
+    <name>S8dqtv1_--.1.3gp</name>
+    <link href="S8dqtv1_--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3549812" lon="-99.1523409">
+    <time>2017-03-25T18:03:12Z</time>
+    <name>S8dqtvb9--.1.3gp</name>
+    <link href="S8dqtvb9--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.3549597" lon="-99.1527057">
+    <time>2017-03-25T18:04:40Z</time>
+    <name>S8dqtvTz--.1.3gp</name>
+    <link href="S8dqtvTz--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0612149" lon="-98.2321072">
+    <time>2017-04-01T16:58:30Z</time>
+    <name>S80JZ31k--.1.3gp</name>
+    <link href="S80JZ31k--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0612257" lon="-98.2321072">
+    <time>2017-04-01T16:59:43Z</time>
+    <name>S80JZ31l--.1.3gp</name>
+    <link href="S80JZ31l--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0613115" lon="-98.2320213">
+    <time>2017-04-01T17:01:51Z</time>
+    <name>S80JciiF--.1.3gp</name>
+    <link href="S80JciiF--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0614188" lon="-98.231957">
+    <time>2017-04-01T17:02:28Z</time>
+    <name>S80Jcijb--.1.3gp</name>
+    <link href="S80Jcijb--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.061805" lon="-98.2316995">
+    <time>2017-04-01T17:07:23Z</time>
+    <name>S80Jci8r--.1.3gp</name>
+    <link href="S80Jci8r--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0620625" lon="-98.2315493">
+    <time>2017-04-01T17:11:35Z</time>
+    <name>S80Jcjrp--.1.3gp</name>
+    <link href="S80Jcjrp--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0624487" lon="-98.2313347">
+    <time>2017-04-01T17:13:48Z</time>
+    <name>S80JcpTR--.1.3gp</name>
+    <link href="S80JcpTR--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0624487" lon="-98.2313347">
+    <time>2017-04-01T17:14:51Z</time>
+    <name>S80JcpTR--.2.3gp</name>
+    <link href="S80JcpTR--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0624487" lon="-98.2313347">
+    <time>2017-04-01T17:16:07Z</time>
+    <name>S80JcpTR--.3.3gp</name>
+    <link href="S80JcpTR--.3.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0625238" lon="-98.2313132">
+    <time>2017-04-01T17:19:07Z</time>
+    <name>S80JcpWS--.1.3gp</name>
+    <link href="S80JcpWS--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0625238" lon="-98.2313132">
+    <time>2017-04-01T17:19:17Z</time>
+    <name>S80JcpWS--.2.3gp</name>
+    <link href="S80JcpWS--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.062556" lon="-98.2313132">
+    <time>2017-04-01T17:21:44Z</time>
+    <name>S80JcpWX--.1.3gp</name>
+    <link href="S80JcpWX--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0625668" lon="-98.2313132">
+    <time>2017-04-01T17:22:01Z</time>
+    <name>S80JcpXC--.1.3gp</name>
+    <link href="S80JcpXC--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0625775" lon="-98.2313132">
+    <time>2017-04-01T17:22:47Z</time>
+    <name>S80JcpXD--.1.3gp</name>
+    <link href="S80JcpXD--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0628672" lon="-98.2312059">
+    <time>2017-04-01T17:25:57Z</time>
+    <name>S80JcsG4--.1.3gp</name>
+    <link href="S80JcsG4--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0628779" lon="-98.2312059">
+    <time>2017-04-01T17:26:29Z</time>
+    <name>S80JcsG5--.1.3gp</name>
+    <link href="S80JcsG5--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0628779" lon="-98.2312489">
+    <time>2017-04-01T17:29:27Z</time>
+    <name>S80JcsGx--.1.3gp</name>
+    <link href="S80JcsGx--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0628779" lon="-98.2312489">
+    <time>2017-04-01T17:30:06Z</time>
+    <name>S80JcsGx--.2.3gp</name>
+    <link href="S80JcsGx--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0628994" lon="-98.2312703">
+    <time>2017-04-01T17:30:27Z</time>
+    <name>S80JcsGf--.1.3gp</name>
+    <link href="S80JcsGf--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0630817" lon="-98.2311416">
+    <time>2017-04-01T17:32:30Z</time>
+    <name>S80JcsZC--.1.3gp</name>
+    <link href="S80JcsZC--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0632641" lon="-98.2310343">
+    <time>2017-04-01T17:33:59Z</time>
+    <name>S80Jcsdp--.1.3gp</name>
+    <link href="S80Jcsdp--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0637469" lon="-98.2308412">
+    <time>2017-04-01T17:37:17Z</time>
+    <name>S80Jcta_--.1.3gp</name>
+    <link href="S80Jcta_--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0637362" lon="-98.2308197">
+    <time>2017-04-01T17:40:12Z</time>
+    <name>S80JctwR--.1.3gp</name>
+    <link href="S80JctwR--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0637362" lon="-98.2308197">
+    <time>2017-04-01T17:42:02Z</time>
+    <name>S80JctwR--.2.3gp</name>
+    <link href="S80JctwR--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.063822" lon="-98.2307124">
+    <time>2017-04-01T17:43:17Z</time>
+    <name>S80Jctxz--.1.3gp</name>
+    <link href="S80Jctxz--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0639186" lon="-98.230648">
+    <time>2017-04-01T17:44:51Z</time>
+    <name>S80Jct2U--.1.3gp</name>
+    <link href="S80Jct2U--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0640259" lon="-98.2305622">
+    <time>2017-04-01T17:46:50Z</time>
+    <name>S80Jc4ig--.1.3gp</name>
+    <link href="S80Jc4ig--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0642297" lon="-98.2304764">
+    <time>2017-04-01T17:50:56Z</time>
+    <name>S80Jc4sF--.1.3gp</name>
+    <link href="S80Jc4sF--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0646052" lon="-98.2302618">
+    <time>2017-04-01T17:58:27Z</time>
+    <name>S80Jc4_c--.1.3gp</name>
+    <link href="S80Jc4_c--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.064573" lon="-98.2300901">
+    <time>2017-04-01T17:59:56Z</time>
+    <name>S80Jc6UN--.1.3gp</name>
+    <link href="S80Jc6UN--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0644658" lon="-98.2299614">
+    <time>2017-04-01T18:03:07Z</time>
+    <name>S80Jc6TB--.1.3gp</name>
+    <link href="S80Jc6TB--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0635753" lon="-98.2294893">
+    <time>2017-04-01T18:05:28Z</time>
+    <name>S80JcvO8--.1.3gp</name>
+    <link href="S80JcvO8--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0629959" lon="-98.2298112">
+    <time>2017-04-01T18:10:43Z</time>
+    <name>S80JcuSq--.1.3gp</name>
+    <link href="S80JcuSq--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0622985" lon="-98.230176">
+    <time>2017-04-01T18:11:28Z</time>
+    <name>S80Jcpv9--.1.3gp</name>
+    <link href="S80Jcpv9--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.0623093" lon="-98.2302403">
+    <time>2017-04-01T18:12:08Z</time>
+    <name>S80Jcp6K--.1.3gp</name>
+    <link href="S80Jcp6K--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.062953" lon="-98.2311201">
+    <time>2017-04-01T18:16:33Z</time>
+    <name>S80JcsNY--.1.3gp</name>
+    <link href="S80JcsNY--.1.3gp" />
+    <type>photonote</type>
+  </wpt>
+  <wpt lat="19.062953" lon="-98.2311201">
+    <time>2017-04-01T18:17:07Z</time>
+    <name>S80JcsNY--.2.3gp</name>
+    <link href="S80JcsNY--.2.3gp" />
+    <type>photonote</type>
+  </wpt>
+</gpx>
+
