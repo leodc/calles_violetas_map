@@ -24,10 +24,10 @@ function initMap(idMap){
     center: [0, 0],
     zoom: 3,
     zoomControl: true,
-    layers: [mapboxTiles]
+    layers: [mapboxSatelliteTiles]
   });
 
-  layerControl = L.control.layers({"Mapbox": mapboxTiles, "Mapbox Satellite": mapboxSatelliteTiles}, {}, {collapsed:false}).addTo(map);
+  layerControl = L.control.layers({"Mapbox Satellite": mapboxSatelliteTiles, "Mapbox": mapboxTiles}, {}, {collapsed:false}).addTo(map);
 
   L.control.locate({
     strings: {
@@ -36,10 +36,12 @@ function initMap(idMap){
   }).addTo(map);
 
   dataLayer = L.featureGroup().addTo(map);
+
+  map.fitBounds(L.latLngBounds({"lat":16.214674588248556,"lng":-112.03857421875}, {"lat":29.305561325527698,"lng":-87.31933593750001}));
 }
 
 
-function addLayerFromDirectory(directoryName, centerData){
+function addLayerFromDirectory(directoryName){
   var url = "resources/data/" + directoryName + "/";
 
   var auxLayer;
@@ -53,23 +55,21 @@ function addLayerFromDirectory(directoryName, centerData){
     var poi;
     for (var i = 0; i < jsonResult.wpt.length; i++) {
       poi = jsonResult.wpt[i];
-
+      
       L.marker([poi.lat, poi.lon], {icon: iconMarker}).addTo(auxLayer).bindPopup(audioPrefix + url + poi.link.href + audioSuffix);
    }
 
    layerControl.addOverlay(auxLayer, directoryName);
-
-   if(centerData)
-    map.fitBounds(dataLayer.getBounds());
   });
 }
 
 $(function(){
   initMap("map");
 
-  addLayerFromDirectory("FMB", false);
-  addLayerFromDirectory("Monterrey", false);
-  addLayerFromDirectory("Puebla", true);
+  addLayerFromDirectory("Barrio antiguo Monterrey 2017");
+  addLayerFromDirectory("Ex-Convento Churubusco Coyoacan CDMX 2017");
+  addLayerFromDirectory("Puebla 2017");
+  addLayerFromDirectory("San Pablo Merced CDMX 2017");
 });
 
 /*global $ L*/
